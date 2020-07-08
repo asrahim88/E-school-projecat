@@ -1,0 +1,175 @@
+section{
+    margin-bottom: 20px;
+}
+/* 1st Section Start */
+.sec-One{
+    background: #f0fff0;
+}
+.container{
+    padding-bottom: 50px;
+}
+ul li{
+    width: 100px;
+    text-align: center;  
+}
+ul li .anchore{
+    border-radius: 50px;
+}
+.navbar img{
+    width: 198.07px;
+    height: 59;
+}
+.text-color{
+    color: black !important;
+}
+.btn{
+    border-radius: 25px;
+    width: 137px;
+    height: 35px;
+    padding-top: 3px;
+}
+.secondContainerText{
+    padding-top: 35px;
+}
+.sec-one-span{
+    font-family: Poppins;
+}
+#secondContainerImg{
+    width: 100%;
+}
+/* 1st Section End */
+
+
+/* 2nd Section Start */
+.book1{
+    width: 66px;
+    height: 85px;
+}
+.sec-two .bg-color1 {
+    background: red;
+    padding-top: 10px;
+}
+.sec-two .bg-color2 {
+    background: green;
+    padding-top: 10px;
+}
+.sec-two .bg-color3 {
+    background: blue;
+    padding-top: 10px;
+}
+.sec-two .bg-color4 {
+    background: black;
+    padding-top: 10px;
+}
+.books1, .books3, .books4{
+    background-color: #F8FFFB;
+}
+.books2{
+    box-shadow: 5px 5px 55px 5px  lightgray;
+}
+/* 2nd Section End */
+
+
+
+
+/* 3rd Section Start */
+.sec-three h2{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.main-div-first-box{
+    box-shadow: 1px 1px 50px 5px lavender;
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.img-container img, .img-container h3, .img-container h6, new-btn{
+    padding-bottom: 10px;
+}
+.bot-div{
+    padding-top: 53px;
+}
+.box-One, .box-two, .box-three img{
+    width: 100%;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+.box-One{
+    background: red;
+}
+.box-two{
+    background: green; 
+}
+.box-three{
+    background: black;
+}
+.calender {
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;
+}
+.calender img{
+    width: 100%;
+    height: 100%;
+    
+}
+.people{
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;  
+}
+.people img{
+    width: 100%;
+    height: 100%;
+}
+.div-text{
+    font-weight: 900;
+    font-family: Poppins;
+    color: #585859;
+}
+/* 3rd Section End */
+
+
+/* 4th Section Start */
+.manPic img{
+    width: 100%;
+}
+.Testimonial{
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: Poppins;
+}
+.test-text{
+    text-align: justify;
+    padding-top: 70px;
+    font-family: Poppins;
+    color: #000000;
+}
+/* 4th Section End */
+
+
+
+
+/* 5th Section Start */
+.sec-five{
+    background-color: #282531;
+    
+}
+.sec-five-bottom {
+    height: 369px;
+    color: #FFFFFF;
+    padding-top: 80px;
+    
+    
+}
+.para{
+    font-size: 15px;
+}
+.sec-five footer{
+    text-align: center;
+    color: #CDCDCD;
+    padding-bottom: 15px;
+    font-family: Poppins;
+}
+/* 5th Section Start */
